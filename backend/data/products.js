@@ -1,7 +1,7 @@
 const products = [
   {
     name: 'Brown Ginger Bread / Raindeer Nail Set',
-    image: '/images/Brown Gingerbread Nail Set.png',
+    image: '/images/brown.jpg',
     description:
       'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
     category: 'Electronics',
@@ -12,7 +12,7 @@ const products = [
   },
   {
     name: 'Midnight Blue Antique Decor Nail Set',
-    image: '/images/Midnight Blue Antique Decor Nail Set.png',
+    image: '/images/midblue.jpg',
     description:
       'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
     category: 'Electronics',
@@ -23,7 +23,7 @@ const products = [
   },
   {
     name: 'Nude and Brown White Decorated Nail Se',
-    image: '/images/Nude and Brown Nail Set.png',
+    image: '/images/creambrown.jpg',
     description:
       'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
     category: 'Electronics',
@@ -34,7 +34,7 @@ const products = [
   },
   {
     name: 'Orange and Grey Floral Nail Set',
-    image: '/images/Orange and Grey Floral Nail Set.png',
+    image: '/images/orange,jpg',
     description:
       'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
     category: 'Electronics',
@@ -45,7 +45,7 @@ const products = [
   },
   {
     name: 'Pink and Light Blue Bubble Gum Nail Set',
-    image: '/images/Pink and Light Blue Nail Set.png',
+    image: '/images/bluepink.jpg',
     description:
       'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
     category: 'Electronics',
@@ -56,7 +56,7 @@ const products = [
   },
   {
     name: 'Red and White Christmas Nail Set',
-    image: '/images/Red and White Christmas Nail Set.png',
+    image: '/images/red.jpg',
     description:
       'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
     category: 'Electronics',
