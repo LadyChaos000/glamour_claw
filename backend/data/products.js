@@ -34,7 +34,7 @@ const products = [
   },
   {
     name: 'Orange and Grey Floral Nail Set',
-    image: '/images/orange,jpg',
+    image: '/images/orange.jpg',
     description:
       'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
     category: 'Electronics',
